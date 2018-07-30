@@ -1,0 +1,136 @@
+6/17/2018 10:43:37 AM FEED MONEY: 25 25
+6/17/2018 10:43:40 AM Potato Crisps A1 3.05 25
+6/17/2018 10:43:42 AM Cowtales B2 1.50 21.95
+6/17/2018 10:43:44 AM Mountain Melter C3 1.50 20.45
+6/17/2018 10:43:46 AM GIVE CHANGE: 1895 $0.00
+6/17/2018 10:43:46 AM GIVE CHANGE: 1895 $0.00
+6/17/2018 10:43:46 AM GIVE CHANGE: 1895 $0.00
+6/17/2018 10:49:06 AMFEED MONEY:         25                  25                  
+6/17/2018 10:49:08 AMPotato Crisps       A1                  3.05                25                  
+6/17/2018 10:49:11 AMCrunchie            B4                  1.75                21.95               
+6/17/2018 10:49:13 AMCrunchie            B4                  1.75                20.20               
+6/17/2018 10:49:14 AMGIVE CHANGE:        1845                $0.00               
+6/17/2018 10:49:14 AMGIVE CHANGE:        1845                $0.00               
+6/17/2018 10:49:14 AMGIVE CHANGE:        1845                $0.00               
+6/17/2018 10:51:23 AM FEED MONEY: $15       $15      
+6/17/2018 10:51:25 AM Potato Crisps A1        $3.05     $15      
+6/17/2018 10:51:27 AM Stackers  A2        $1.45     $11.95   
+6/17/2018 10:51:30 AM FEED MONEY: $40       $50.50   
+6/17/2018 10:51:34 AM Grain Waves A3        $2.75     $50.50   
+6/17/2018 10:51:39 AM Grain Waves A3        $2.75     $47.75   
+6/17/2018 10:51:40 AM GIVE CHANGE: 4500      $0.00    
+6/17/2018 10:51:40 AM GIVE CHANGE: 4500      $0.00    
+6/17/2018 10:51:40 AM GIVE CHANGE: 4500      $0.00    
+6/17/2018 10:52:47 AM FEED MONEY: $15       $15      
+6/17/2018 10:52:50 AM Potato Crisps A1 $3.05     $15      
+6/17/2018 10:52:52 AM Potato Crisps A1 $3.05     $11.95   
+6/17/2018 10:52:53 AM Potato Crisps A1 $3.05     $8.90    
+6/17/2018 10:52:54 AM GIVE CHANGE: 585       $0.00    
+6/17/2018 10:52:54 AM GIVE CHANGE: 585       $0.00    
+6/17/2018 10:52:54 AM GIVE CHANGE: 585       $0.00    
+6/17/2018 10:54:19 AM FEED MONEY: $10       $10      
+6/17/2018 10:54:21 AM FEED MONEY: $15       $25      
+6/17/2018 10:54:23 AM Potato Crisps A1 $3.05     $25      
+6/17/2018 10:54:25 AM Moonpie B1 $1.80     $21.95   
+6/17/2018 10:54:27 AM Cola C1   $1.25     $20.15   
+6/17/2018 10:54:29 AM U-Chews D1 $0.85     $18.90   
+6/17/2018 10:54:31 AM GIVE CHANGE: $18.05    $0.00    
+6/17/2018 10:54:31 AM GIVE CHANGE: $18.05    $0.00    
+6/17/2018 10:54:31 AM GIVE CHANGE: $18.05    $0.00    
+6/17/2018 11:04:46 AM FEED MONEY: $10       $10      
+6/17/2018 11:04:47 AM Potato Crisps A1 $3.05     $10      
+6/17/2018 11:04:50 AM Potato Crisps A1 $3.05     $6.95    
+6/17/2018 11:04:52 AM Cowtales B2 $1.50     $3.90    
+6/17/2018 11:04:54 AM GIVE CHANGE: $2.40     $0.00    
+6/17/2018 11:04:54 AM GIVE CHANGE: $2.40     $0.00    
+6/17/2018 11:04:54 AM GIVE CHANGE: $2.40     $0.00    
+6/17/2018 11:13:09 AM FEED MONEY: $5        $5       
+6/17/2018 11:13:13 AM Potato Crisps A1 $3.05     $5       
+6/17/2018 11:13:15 AM FEED MONEY: $50       $51.95   
+6/17/2018 11:13:17 AM Cowtales B2 $1.50     $51.95   
+6/17/2018 11:13:19 AM Cowtales B2 $1.50     $50.45   
+6/17/2018 11:13:20 AM Cowtales B2 $1.50     $48.95   
+6/17/2018 11:13:21 AM GIVE CHANGE: $47.45    $0.00    
+6/17/2018 11:13:21 AM GIVE CHANGE: $47.45    $0.00    
+6/17/2018 11:13:21 AM GIVE CHANGE: $47.45    $0.00    
+6/17/2018 11:18:18 AM FEED MONEY: $15       $15      
+6/17/2018 11:18:20 AM Potato Crisps A1 $3.05     $15      
+6/17/2018 11:18:21 AM Potato Crisps A1 $3.05     $11.95   
+6/17/2018 11:18:23 AM Cowtales B2 $1.50     $8.90    
+6/17/2018 11:18:24 AM GIVE CHANGE: $7.40     $0.00    
+6/17/2018 11:18:24 AM GIVE CHANGE: $7.40     $0.00    
+6/17/2018 11:18:24 AM GIVE CHANGE: $7.40     $0.00    
+6/17/2018 11:22:42 AM FEED MONEY: $15       $15      
+6/17/2018 11:22:44 AM Potato Crisps A1 $3.05     $15      
+6/17/2018 11:22:46 AM Stackers A2 $1.45     $11.95   
+6/17/2018 11:22:48 AM Grain Waves A3 $2.75     $10.50   
+6/17/2018 11:22:49 AM GIVE CHANGE: $7.75     $0.00    
+6/17/2018 11:22:49 AM GIVE CHANGE: $7.75     $0.00    
+6/17/2018 11:22:49 AM GIVE CHANGE: $7.75     $0.00    
+6/17/2018 11:24:15 AM Potato Crisps A1 $3.05     $0       
+6/17/2018 11:24:27 AM FEED MONEY: $500      $500     
+6/17/2018 11:24:28 AM Potato Crisps A1 $3.05     $500     
+6/17/2018 11:24:31 AM Potato Crisps A1 $3.05     $496.95  
+6/17/2018 11:24:32 AM Stackers A2 $1.45     $493.90  
+6/17/2018 11:24:34 AM Stackers A2 $1.45     $492.45  
+6/17/2018 11:24:36 AM Stackers A2 $1.45     $491.00  
+6/17/2018 11:24:36 AM GIVE CHANGE: $489.55   $0.00    
+6/17/2018 11:24:36 AM GIVE CHANGE: $489.55   $0.00    
+6/17/2018 11:24:36 AM GIVE CHANGE: $489.55   $0.00    
+6/17/2018 11:25:53 AM FEED MONEY: $10       $10      
+6/17/2018 11:25:54 AM Potato Crisps A1 $3.05     $10      
+6/17/2018 11:25:55 AM GIVE CHANGE: $6.95     $0.00    
+6/17/2018 11:25:55 AM GIVE CHANGE: $6.95     $0.00    
+6/17/2018 11:25:55 AM GIVE CHANGE: $6.95     $0.00    
+6/17/2018 11:28:17 AM FEED MONEY: $750      $750     
+6/17/2018 11:28:22 AM Potato Crisps A1 $3.05     $750     
+6/17/2018 11:28:24 AM Potato Crisps A1 $3.05     $746.95  
+6/17/2018 11:28:26 AM Potato Crisps A1 $3.05     $743.90  
+6/17/2018 11:28:28 AM Potato Crisps A1 $3.05     $740.85  
+6/17/2018 11:28:30 AM Potato Crisps A1 $3.05     $737.80  
+6/17/2018 11:41:44 AM GIVE CHANGE: $0        $0.00    
+6/17/2018 11:41:44 AM GIVE CHANGE: $0        $0.00    
+6/17/2018 11:41:44 AM GIVE CHANGE: $0        $0.00    
+6/17/2018 11:49:48 AM FEED MONEY: $10       $10      
+6/17/2018 11:49:50 AM Potato Crisps A1 $3.05     $10      
+6/17/2018 11:49:51 AM GIVE CHANGE: $6.95     $0.00    
+6/17/2018 11:49:51 AM GIVE CHANGE: $6.95     $0.00    
+6/17/2018 11:49:51 AM GIVE CHANGE: $6.95     $0.00    
+6/17/2018 7:42:58 PM FEED MONEY: $5        $5       
+6/17/2018 7:43:01 PM Potato Crisps A1 $3.05     $1.95    
+6/17/2018 7:43:08 PM GIVE CHANGE: $1.95     $0.00    
+6/17/2018 7:43:08 PM GIVE CHANGE: $1.95     $0.00    
+6/17/2018 7:43:08 PM GIVE CHANGE: $1.95     $0.00    
+6/17/2018 7:45:00 PM FEED MONEY: $100      $100     
+6/17/2018 7:45:05 PM Potato Crisps A1 $3.05     $96.95   
+6/17/2018 7:45:27 PM Chiclets D3 $0.75     $96.20   
+6/17/2018 7:45:31 PM GIVE CHANGE: $96.20    $0.00    
+6/17/2018 7:45:31 PM GIVE CHANGE: $96.20    $0.00    
+6/17/2018 7:45:31 PM GIVE CHANGE: $96.20    $0.00    
+6/17/2018 8:33:22 PM FEED MONEY: $100      $100     
+6/17/2018 8:39:28 PM FEED MONEY: $100      $100     
+6/17/2018 8:39:30 PM Potato Crisps A1 $3.05     $96.95   
+6/17/2018 8:39:31 PM GIVE CHANGE: $96.95    $0.00    
+6/17/2018 8:39:31 PM GIVE CHANGE: $96.95    $0.00    
+6/17/2018 8:39:31 PM GIVE CHANGE: $96.95    $0.00    
+6/17/2018 8:39:55 PM FEED MONEY: $100      $100     
+6/17/2018 8:41:39 PM FEED MONEY: $100      $100     
+6/17/2018 8:41:41 PM Potato Crisps A1 $3.05     $96.95   
+6/17/2018 8:41:42 PM GIVE CHANGE: $96.95    $0.00    
+6/17/2018 8:41:42 PM GIVE CHANGE: $96.95    $0.00    
+6/17/2018 8:41:42 PM GIVE CHANGE: $96.95    $0.00    
+6/17/2018 8:41:45 PM GIVE CHANGE: $0        $0.00    
+6/17/2018 8:41:49 PM FEED MONEY: $200      $200     
+6/17/2018 8:41:51 PM GIVE CHANGE: $0        $0.00    
+6/17/2018 8:47:07 PM FEED MONEY: $100      $100     
+6/17/2018 8:47:41 PM FEED MONEY: $250      $250     
+6/17/2018 8:49:44 PM FEED MONEY: $500      $500     
+6/17/2018 8:50:47 PM FEED MONEY: $200      $200     
+6/17/2018 8:50:56 PM GIVE CHANGE: $200      $0.00    
+6/17/2018 8:50:56 PM GIVE CHANGE: $200      $0.00    
+6/17/2018 8:50:56 PM GIVE CHANGE: $200      $0.00    
+7/18/2018 9:44:37 PM FEED MONEY: $10       $10      
+7/18/2018 9:44:42 PM Stackers A2 $1.45     $8.55    
+7/18/2018 9:44:45 PM GIVE CHANGE: $8.55     $0.00    
+7/18/2018 9:44:45 PM GIVE CHANGE: $8.55     $0.00    
+7/18/2018 9:44:45 PM GIVE CHANGE: $8.55     $0.00    

@@ -1,0 +1,81 @@
+Potato Crisps|5
+
+**TOTAL SALES** $0
+Potato Crisps|4
+
+**TOTAL SALES** $3.05
+Cowtales|5
+
+**TOTAL SALES** $6.10
+Potato Crisps|5
+
+**TOTAL SALES** $0
+Cowtales|5
+
+**TOTAL SALES** $3.05
+Cowtales|4
+
+**TOTAL SALES** $4.55
+Cowtales|3
+
+**TOTAL SALES** $6.05
+Potato Crisps|5
+
+**TOTAL SALES** $0
+Potato Crisps|4
+
+**TOTAL SALES** $3.05
+Cowtales|5
+
+**TOTAL SALES** $6.10
+System.Collections.Generic.List`1[System.String]
+**TOTAL SALES** $0
+System.Collections.Generic.List`1[System.String]
+**TOTAL SALES** $3.05
+System.Collections.Generic.List`1[System.String]
+**TOTAL SALES** $4.50
+System.Collections.Generic.List`1[System.String]
+**TOTAL SALES** $0
+System.Collections.Generic.List`1[System.String]
+**TOTAL SALES** $0
+System.Collections.Generic.List`1[System.String]
+**TOTAL SALES** $3.05
+System.Collections.Generic.List`1[System.String]
+**TOTAL SALES** $6.10
+System.Collections.Generic.List`1[System.String]
+**TOTAL SALES** $7.55
+System.Collections.Generic.List`1[System.String]
+**TOTAL SALES** $9.00
+System.Collections.Generic.List`1[System.String]
+**TOTAL SALES** $0
+System.Collections.Generic.List`1[System.String]
+**TOTAL SALES** $3.05
+System.Collections.Generic.List`1[System.String]
+**TOTAL SALES** $6.10
+System.Collections.Generic.List`1[System.String]
+**TOTAL SALES** $9.15
+System.Collections.Generic.List`1[System.String]
+**TOTAL SALES** $12.20
+System.Collections.Generic.List`1[System.String]
+**TOTAL SALES** $15.25
+System.Collections.Generic.List`1[System.String]
+**TOTAL SALES** $0
+Potato Crisps|1
+**TOTAL SALES** $3.05
+Potato Crisps|1
+Chiclets|1
+**TOTAL SALES** $3.80
+**TOTAL SALES** $0
+Potato Crisps|1
+**TOTAL SALES** $3.05
+Potato Crisps|1
+**TOTAL SALES** $3.05
+**TOTAL SALES** $0
+Potato Crisps|1
+**TOTAL SALES** $3.05
+Potato Crisps|1
+**TOTAL SALES** $3.05
+**TOTAL SALES** $0
+**TOTAL SALES** $0
+Stackers|1
+**TOTAL SALES** $1.45
